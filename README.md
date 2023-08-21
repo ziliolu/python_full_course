@@ -1,13 +1,13 @@
 # Python Full Course/>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python" />
-  </a>
-</p>
 <p align="center">
   <img src="https://img.shields.io/github/languages/top/ziliolu/python_full_course?color=#FFFFFF&style=flat-square"/>
   <img src="https://img.shields.io/badge/status-finished-yellow?style=flat-square" />
   <img src="https://img.shields.io/github/last-commit/ziliolu/python_full_course?color=#FFFFFF&style=flat-square" />
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
 </p>
 Welcome to the repository for my Python online course! This repository contains my progress, exercises, and projects from the course. The course is available for free on [YouTube](https://www.youtube.com/watch?v=XKHEtdqhLK8).
 
