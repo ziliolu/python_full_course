@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/github/last-commit/ziliolu/python_full_course?color=#FFFFFF&style=flat-square" />
 </p>
 
-Welcome to the repository for my Python online course! This repository contains my progress, exercises, and projects from the course. The course is available for free on [Youtube](https://www.youtube.com/watch?v=XKHEtdqhLK8) and it has `12h` content.
+Welcome to the repository for my Python online course! This repository contains my progress, exercises, and projects from the course. The course is available for free on [Youtube](https://www.youtube.com/watch?v=XKHEtdqhLK8) and it has 12h content.
 
 ## Course Overview
 
