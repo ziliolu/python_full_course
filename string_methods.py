@@ -8,4 +8,5 @@ name = "Luiza"
 # print(name.isdigit())
 # print(name.isalpha())
 # print(name.count("o"))
-print(name.replace("u", "x"))
+# print(name.replace("u", "x"))
+print(name * 3) 
