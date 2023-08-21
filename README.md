@@ -1,4 +1,4 @@
-# Python Full Course - Bro Code
+# Python Full Course - Bro Code <img src="https://skillicons.dev/icons?i=python" />
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python" />
