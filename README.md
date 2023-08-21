@@ -1,6 +1,4 @@
-# Python Online Course - Course Name
-
-![Python Logo](https://link.to.your.image.png) <!-- Replace with an image related to the course -->
+# Python Full Course - Bro Code
 
 Welcome to the repository for my Python online course! This repository contains my progress, exercises, and projects from the course. The course is available for free on [YouTube](https://www.youtube.com/watch?v=XKHEtdqhLK8).
 
