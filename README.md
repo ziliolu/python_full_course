@@ -1,5 +1,9 @@
 # Python Full Course - Bro Code
-
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+</p>
 Welcome to the repository for my Python online course! This repository contains my progress, exercises, and projects from the course. The course is available for free on [YouTube](https://www.youtube.com/watch?v=XKHEtdqhLK8).
 
 ## Course Overview
