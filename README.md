@@ -1,4 +1,4 @@
-# Python Full Course/>
+# Python Full Course
 <p align="center">
   <img src="https://img.shields.io/github/languages/top/ziliolu/python_full_course?color=#FFFFFF&style=flat-square"/>
   <img src="https://img.shields.io/badge/status-finished-yellow?style=flat-square" />
